@@ -1,0 +1,1 @@
+java -cp src com.avaj.simulator.Simulator $1

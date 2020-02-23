@@ -1,0 +1,10 @@
+Tower says: Baloon#7f8932a856dfec30432c7247d08debc4(0) registered to weather tower.
+Tower says: JetPlane#d077f244def8a70e5ea758bd8352fcd8(1) registered to weather tower.
+Baloon#7f8932a856dfec30432c7247d08debc4(0): I can't feel my face, Im freezing!
+JetPlane#d077f244def8a70e5ea758bd8352fcd8(1): The sun is blinding me, I can't see anything.
+Baloon#7f8932a856dfec30432c7247d08debc4(0): I can't feel my face, Im freezing!
+Baloon#7f8932a856dfec30432c7247d08debc4(0): landing. [lat: 3, long: 3]
+Tower says: Baloon#7f8932a856dfec30432c7247d08debc4(0) unregistered from weather tower.
+JetPlane#d077f244def8a70e5ea758bd8352fcd8(1): Snow is so pretty.
+JetPlane#d077f244def8a70e5ea758bd8352fcd8(1): Snow is so pretty.
+JetPlane#d077f244def8a70e5ea758bd8352fcd8(1): Snow is so pretty.
