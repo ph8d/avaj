@@ -25,10 +25,6 @@ public class Logger {
     }
 
     File logFile = new File(fileName);
-    // if (logFile.exists()) {
-    //   throw new IOException("Error, file '" + fileName + "' already exists.");
-    // }
-
     writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(logFile), "UTF-8"));
   }
 
